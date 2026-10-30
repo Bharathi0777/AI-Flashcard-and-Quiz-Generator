@@ -1,0 +1,28 @@
+{
+  "html": {
+    "flashcards": [
+      {"question": "1. What is HTML?", "answer": "HTML is HyperText Markup Language. It creates structure of a webpage using tags like <h1>, <p>."},
+      {"question": "2. What is <p> tag?", "answer": "Paragraph tag. Used to write text content in webpage."},
+      {"question": "3. What is <a> tag?", "answer": "Anchor tag. Used to create links."},
+      {"question": "4. What is <img> tag?", "answer": "Image tag. Used to display images."},
+      {"question": "5. What is Head vs Body?", "answer": "Head has title/meta. Body has visible content."},
+      {"question": "6. What is <div>?", "answer": "Division container to group elements."},
+      {"question": "7. What is <ul> & <li>?", "answer": "Unordered list and list items."},
+      {"question": "8. What is Form?", "answer": "Form collects user input using <input>."},
+      {"question": "9. What is Semantic HTML?", "answer": "Meaningful tags like header, footer, section."},
+      {"question": "10. What is HTML5?", "answer": "Latest version with audio, video, canvas support."}
+    ],
+    "quiz": [
+      {"question": "1. HTML stands for?", "options": ["HyperText Markup Language","HighText Machine Language","HyperTabular Markup Language","None"], "answer": "HyperText Markup Language"},
+      {"question": "2. Which tag for paragraph?", "options": ["<p>","<h1>","<div>","<a>"], "answer": "<p>"},
+      {"question": "3. Which tag for link?", "options": ["<a>","<img>","<p>","<li>"], "answer": "<a>"},
+      {"question": "4. Which tag for image?", "options": ["<img>","<a>","<div>","<p>"], "answer": "<img>"},
+      {"question": "5. Where is visible content?", "options": ["Body","Head","Title","Meta"], "answer": "Body"},
+      {"question": "6. <div> is used for?", "options": ["Grouping elements","Creating link","Image","List"], "answer": "Grouping elements"},
+      {"question": "7. <ul> means?", "options": ["Unordered List","Unique List","Underline","None"], "answer": "Unordered List"},
+      {"question": "8. Form tag is used for?", "options": ["Collect user input","Show image","Create heading","Add style"], "answer": "Collect user input"},
+      {"question": "9. Semantic tag example?", "options": ["<header>","<div>","<span>","<b>"], "answer": "<header>"},
+      {"question": "10. HTML5 supports?", "options": ["Audio & Video","Only text","Only image","None"], "answer": "Audio & Video"}
+    ]
+  }
+}
